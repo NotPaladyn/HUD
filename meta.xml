@@ -1,0 +1,11 @@
+<meta>
+	<info name="HUD" author="NotPaladyn" version="1.0"/>
+
+	<script src="c_hud.lua" type="client" cache="false"/>
+	<script src="c_utils.lua" type="client" cache="false"/>
+
+	<file src="images/money_icon.png"/>
+	<file src="images/rp_icon.png"/>
+
+	<file src="fonts/Exo2-Light.ttf"/>
+</meta>
